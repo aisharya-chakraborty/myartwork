@@ -1,0 +1,54 @@
+.title
+{
+    color: red;
+    font-size: 20px;
+    text-align: left-side;
+}
+
+.header
+{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.description
+{
+	color: DarkGray;
+	font-size: 20px;
+	border-style: dashed;
+	padding: 20px 30px 20px 30px;
+	background-color: Lavender;
+}
+
+.image {
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
+
+.chart{
+	width: 600px;
+    height: 220px;
+	background-color: DarkTurquoise;
+}
+
+.circ1 {
+    stroke: green; 
+    fill: white;
+    stroke-width: 5;
+}
+
+.rect1{
+	
+	fill: rgb(0,0,255);
+	stroke-width: 3;
+	stroke: rgb(0,0,0);
+}
+
+.ply1{
+	fill:lime;
+	stroke:purple;
+	stroke-width:1;
+	
+}
